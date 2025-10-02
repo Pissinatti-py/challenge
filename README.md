@@ -100,7 +100,7 @@ O projeto segue os princípios de **Clean Architecture** e **SOLID**:
 
 ```bash
 # Clone o repositório
-git clone <repository-url>
+git clone https://github.com/Pissinatti-py/challenge.git
 cd challenge
 
 # Construa e inicie os containers
@@ -113,7 +113,7 @@ docker-compose up --build
 
 ```bash
 # Clone o repositório
-git clone <repository-url>
+git clone https://github.com/Pissinatti-py/challenge.git
 cd challenge
 
 # Crie um ambiente virtual
