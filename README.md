@@ -103,6 +103,9 @@ O projeto segue os princípios de **Clean Architecture** e **SOLID**:
 git clone https://github.com/Pissinatti-py/challenge.git
 cd challenge
 
+# Configure as variáveis de ambiente
+cp .env.example .env
+
 # Construa e inicie os containers
 docker-compose up --build
 
@@ -115,6 +118,9 @@ docker-compose up --build
 # Clone o repositório
 git clone https://github.com/Pissinatti-py/challenge.git
 cd challenge
+
+# Configure as variáveis de ambiente
+cp .env.example .env
 
 # Crie um ambiente virtual
 python -m venv venv
