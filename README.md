@@ -219,7 +219,8 @@ curl -X GET "http://localhost:8000/game/simulate"
       "properties_owned": ["Avenida Paulista", "Copacabana"],
       "is_active": true,
       "total_assets": 690
-    }
+    },
+    ...
   ],
   "final_standings": [
     {
@@ -227,7 +228,8 @@ curl -X GET "http://localhost:8000/game/simulate"
       "name": "Impulsivo",
       "balance": 450,
       "properties_count": 5
-    }
+    },
+    ...
   ]
 }
 ```
@@ -468,7 +470,7 @@ Marcus Vinicius
 
 ⭐ **Se este projeto foi útil, considere dar uma estrela!**
 
-📧 **Contato**: [marcusandrade.37@gmail.com]
+📧 **Contato**: [Email](marcusandrade.37@gmail.com)
 
 🔗 **Links Úteis**:
 
