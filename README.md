@@ -468,7 +468,7 @@ Marcus Vinicius
 
 ⭐ **Se este projeto foi útil, considere dar uma estrela!**
 
-📧 **Contato**: [seu-email@exemplo.com]
+📧 **Contato**: [marcusandrade.37@gmail.com]
 
 🔗 **Links Úteis**:
 
